@@ -1,3 +1,5 @@
+<!-- @format -->
+
 # Fetch on Demand with Forms
 
 ## Learning Goals
@@ -280,10 +282,8 @@ console using the code above.
 > `json-server`. Follow the steps in [this gist][live-server settings] (you'll
 > only need to do this once), then come back to this lesson.
 
-[live-server]:
-  https://marketplace.visualstudio.com/items?itemName=ritwickdey.LiveServer
-[live-server settings]:
-  https://gist.github.com/ihollander/cc5f36c6447d15dea6a16f68d82aacf7
+[live-server]: https://marketplace.visualstudio.com/items?itemName=ritwickdey.LiveServer
+[live-server settings]: https://gist.github.com/ihollander/cc5f36c6447d15dea6a16f68d82aacf7
 
 These three objects represent the three 'records' available from the movies API.
 In our example, this is enough for us to move on — we have our user input
@@ -437,8 +437,6 @@ this won't be the case for all events, we also overrode HTML's default behavior.
 - [`event.target`][event-target]
 - [`HTMLCollection`][html-collection]
 
-[html-collection]:
-  https://developer.mozilla.org/en-US/docs/Web/API/HTMLCollection
+[html-collection]: https://developer.mozilla.org/en-US/docs/Web/API/HTMLCollection
 [event-target]: https://developer.mozilla.org/en-US/docs/Web/API/Event/target
-[event-listeners]:
-  https://developer.mozilla.org/en-US/docs/Web/API/EventTarget/addEventListener
+[event-listeners]: https://developer.mozilla.org/en-US/docs/Web/API/EventTarget/addEventListener
